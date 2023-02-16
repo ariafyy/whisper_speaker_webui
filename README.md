@@ -1,4 +1,4 @@
-# Awesome Whispers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Whisper[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 List the Awesome OpenAI's Whisper related repos and their associated applications.
 
@@ -6,7 +6,7 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 * [official👍 code](https://github.com/openai/whisper) - torch : 1.10.1
 * [official👍 blog](https://openai.com/blog/whisper/)
 * [official👍 Paper](https://cdn.openai.com/papers/whisper.pdf)
-* MuLi- analysis Whisper paper [bilibili](https://www.bilibili.com/video/BV1VG4y1t74x/?spm_id_from=333.999.0.0) [youtube](https://www.youtube.com/watch?v=3eXCJd32UnM&t=1419s)
+Prof MuLi- analysis Whisper paper [bilibili](https://www.bilibili.com/video/BV1VG4y1t74x/?spm_id_from=333.999.0.0) [youtube](https://www.youtube.com/watch?v=3eXCJd32UnM&t=1419s)
 
 ## fasterWhisper: 🚀for speed up
 * [🚀Whisper.cpp in C/C++](https://github.com/ggerganov/whisper.cpp)  
