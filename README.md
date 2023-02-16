@@ -1,4 +1,5 @@
-# Awesome Projects List
+# Awesome Whispers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 List the Awesome OpenAI's Whisper related repos and their associated applications.
 
 ## official
@@ -41,8 +42,11 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 * [Speech-to-Text with OpenAI’s Whisper](https://towardsdatascience.com/speech-to-text-with-openais-whisper-53d5cea9005e)
 
 ## finetune
+whisper do good in english but may have less power in chinese.
 * [finetune blog](https://huggingface.co/blog/fine-tune-whisper)
 
 ## audio dataset for finetuning
 * [huggingface audio_dataset](https://huggingface.co/docs/datasets/audio_dataset)
 * [open audio dataset](https://www.openslr.org/resources.php)
+
+
