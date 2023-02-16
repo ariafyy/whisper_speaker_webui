@@ -44,5 +44,5 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 * [finetune blog](https://huggingface.co/blog/fine-tune-whisper)
 
 ## audio dataset for finetuning
-* [HF audio_dataset](https://huggingface.co/docs/datasets/audio_dataset)
-* [open audio dataset] (https://www.openslr.org/resources.php)
+* [huggingface audio_dataset](https://huggingface.co/docs/datasets/audio_dataset)
+* [open audio dataset](https://www.openslr.org/resources.php)
