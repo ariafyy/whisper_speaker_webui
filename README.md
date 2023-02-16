@@ -13,7 +13,8 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 * [🚀Whisper.tflite](https://github.com/usefulsensors/openai-whisper)
 
 ## playground
-* MuLi-AutoCut tool [repo]()  [bilibili](https://www.bilibili.com/video/BV1Pe4y1t7de/?spm_id_from=333.999.0.0) [youtube](https://www.youtube.com/watch?v=PwVlvCPDnrI)
+* MuLi-AutoCut tool [repo]()     [bilibili](https://www.bilibili.com/video/BV1Pe4y1t7de/?spm_id_from=333.999.0.0)     [youtube](https://www.youtube.com/watch?v=PwVlvCPDnrI)
+
 -Cut video with subtitles, automatically generate subtitles for your videos. Then you choose the sentence you want to keep, and AutoCut will cut out the - corresponding clip in your video. don't need to use video editing software, you only need to edit text files to complete the cutting。
 * [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
@@ -33,8 +34,8 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 ## Tutorials
 * MuLi-Whisper paper[bilibili](https://www.bilibili.com/video/BV1VG4y1t74x/?spm_id_from=333.999.0.0) [youtube](https://www.youtube.com/watch?v=3eXCJd32UnM&t=1419s)
 
-* [Complete Tutorial Video for OpenAI's Whisper Model for Windows Users](https://www.youtube.com/watch?v=msj3wuYf3d8) by [@FurkanGozukara](https://github.com/FurkanGozukara)
-* [Whisper me this - Automatic subtitles with OpenAI whisper](https://github.com/altryne/whisper-me-this/) by [@altryne](https://github.com/altryne)
+* [Complete Tutorial Video for OpenAI's Whisper Model for Windows Users](https://www.youtube.com/watch?v=msj3wuYf3d8)  
+* [Whisper me this - Automatic subtitles with OpenAI whisper](https://github.com/altryne/whisper-me-this/)  
 * [Convert Podcasts to Text With OpenAI’s Whisper API Using Python](https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee)
 * [Create your own speech to text application with Whisper from OpenAI and Flask](https://blog.paperspace.com/whisper-openai-flask-application-deployment/)
 * [How to Run OpenAI’s Whisper Speech Recognition Model](https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/)
@@ -45,4 +46,4 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 
 ## audio dataset for finetuning
 * [HF audio_dataset](https://huggingface.co/docs/datasets/audio_dataset)
-* [open audio dataset]: (https://www.openslr.org/resources.php)
+* [open audio dataset] (https://www.openslr.org/resources.php)
