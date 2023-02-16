@@ -15,18 +15,18 @@ List the Awesome OpenAI's Whisper related repos and their associated application
 * [🚀Whisper.tflite](https://github.com/usefulsensors/openai-whisper)
 
 ## playground
-* MuLi-AutoCut tool [repo]()     [bilibili](https://www.bilibili.com/video/BV1Pe4y1t7de/?spm_id_from=333.999.0.0)     [youtube](https://www.youtube.com/watch?v=PwVlvCPDnrI)
+* [MuLi-AutoCut repo](https://github.com/mli/autocut)     [bilibili](https://www.bilibili.com/video/BV1Pe4y1t7de/?spm_id_from=333.999.0.0)     [youtube](https://www.youtube.com/watch?v=PwVlvCPDnrI)
 
 -Cut video with subtitles, automatically generate subtitles for your videos. Then you choose the sentence you want to keep, and AutoCut will cut out the - corresponding clip in your video. don't need to use video editing software, you only need to edit text files to complete the cutting。
 * [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 * [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz)
-* [Buzz - Real-time transcription with Whisper on a desktop app](https://github.com/chidiwilliams/buzz) by [@chidiwilliams](https://github.com/chidiwilliams)
-* [Whisper Playground - Build real time speech2text web apps](https://github.com/saharmor/whisper-playground) by [@saharmor](https://github.com/saharmor)
-* [Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube) by [@ArthurFDLR](https://github.com/ArthurFDLR)
-* [Whisper Mic - Real-time transcription via termianl](https://github.com/mallorbc/whisper_mic) by [@mallorbc](https://github.com/mallorbc)
-* [Song Transcriptor App](https://github.com/BartekKrzepkowski/Song_Transcriptor_App) by [@BartekKrzepkowski](https://github.com/BartekKrzepkowski)
-* [Docker Image for Webservice API](https://github.com/ahmetoner/whisper-asr-webservice) by [@ahmetoner](https://github.com/ahmetoner)
+* [Buzz - Real-time transcription with Whisper on a desktop app](https://github.com/chidiwilliams/buzz)
+* [Whisper Playground - Build real time speech2text web apps](https://github.com/saharmor/whisper-playground) 
+* [Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube) 
+* [Whisper Mic - Real-time transcription via termianl](https://github.com/mallorbc/whisper_mic) 
+* [Song Transcriptor App](https://github.com/BartekKrzepkowski/Song_Transcriptor_App) 
+* [Docker Image for Webservice API](https://github.com/ahmetoner/whisper-asr-webservice) 
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering)
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube)
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
