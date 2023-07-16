@@ -13,6 +13,7 @@ Prof MuLi- analysis Whisper paper [bilibili](https://www.bilibili.com/video/BV1V
 * [🚀Quantization Model](https://github.com/MiscellaneousStuff/openai-whisper-cpu)
 * [🚀Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
 * [🚀Whisper.tflite](https://github.com/usefulsensors/openai-whisper)
+* [🚀Whisper.JAX CPU GPU TPU](https://github.com/sanchit-gandhi/whisper-jax/tree/main)
 
 ## playground
 * [MuLi-AutoCut repo](https://github.com/mli/autocut)     [bilibili](https://www.bilibili.com/video/BV1Pe4y1t7de/?spm_id_from=333.999.0.0)     [youtube](https://www.youtube.com/watch?v=PwVlvCPDnrI)
